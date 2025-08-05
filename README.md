@@ -3,7 +3,7 @@
 #### Sobre min:
 Sou desenvolvedor Full Stack formado pelo Instituto Presbiteria Gammon(FAGAMMON).
 
-Estou atualmente em transição para uma área alinhada com minha formação acadêmica. 
+Atualmente exercendo a função de Analista de Suporte de Sistemas e Desenvolvedor Mobile.
 
 Possuo um perfil marcado pela capacidade de aprendizado rápido e pelo foco em produtividade e inovação. Com quase uma década de experiência como gerente e analista de marketing digital, tornei-me um profissional hábil em assimilar rapidamente novas tecnologias, processos e tarefas.
 

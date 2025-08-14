@@ -1,17 +1,27 @@
 
 # José Carlos Barbosa
 #### Sobre min:
-Sou desenvolvedor Full Stack formado pelo Instituto Presbiteria Gammon(FAGAMMON).
+# Olá, eu sou José Carlos 👋
 
-Atualmente exercendo a função de Analista de Suporte de Sistemas e Desenvolvedor React.
+Sou **Desenvolvedor Full Stack** com foco em **React e React Native**, Bacharel em Sistemas de Informação. Aqui no meu GitHub você encontrará **todos os meus projetos, estudos e experimentos**, incluindo aplicações web e mobile, integrações com APIs e protótipos de interface.
 
-Possuo um perfil marcado pela capacidade de aprendizado rápido e pelo foco em produtividade e inovação. Com quase uma década de experiência como gerente e analista de marketing digital, tornei-me um profissional hábil em assimilar rapidamente novas tecnologias, processos e tarefas.
+💻 **Tecnologias e ferramentas que uso:**
+- **Front-end:** React, React Native, JavaScript, HTML, CSS, Bootstrap  
+- **Back-end:** Node.js, SQL, APIs REST  
+- **Ferramentas:** Git, GitHub, Scrum, Figma, Firebase (Autenticação, Hosting)  
+- **Outros:** Java, Flutter, C++  
 
-Capacito-me para imaginar alternativas inovadoras que impulsionam o crescimento ágil da empresa. Além disso, demonstro habilidade na gestão eficiente do tempo, na antecipação e prevenção de problemas, o que me permite cumprir prazos mesmo sob pressão.
+🚀 **Projetos recentes:**
+- **Sistema de Autoatendimento (Compilart):** 16 telas prototipadas, integração com APIs, documentação completa e fluxo conectado ao sistema gerente da empresa.  
+- **Sistema web financeiro (TCC):** Controle de fluxo de caixa, vendas e fechamento mensal, desenvolvido com React, Node.js e banco SQL.  
 
-Destaco meus dois artigos de TCC (Trabalho de Conclusão de Curso), nos quais conduzi integralmente a coleta de dados e análise de mercado para o desenvolvimento e implementação de um sistema de gerenciamento financeiro (Sistema web) sob demanda, destinado a uma microempresa. Utilizei JavaScript, HTML, CSS, Node.js e React para a programação, e a ferramenta Figma para prototipagem e design de layout. Os resultados alcançados foram notáveis, com melhorias significativas na organização e controle de tarefas, redução do tempo gasto e diminuição do número de erros em atividades cotidianas, tais como fluxo de caixa, controle de vendas e fechamentos mensais. Durante minha formação, adquiri experiência prática em linguagens como Java, Flutter, Dart, HTML, CSS, JavaScript, C++, Banco de Dados SQL e Bootstrap, além de utilizar a ferramenta Figma para o desenvolvimento de interfaces.
+💡 **Sobre mim:**  
+Sou rápido para aprender novas tecnologias, dedicado e sempre buscando soluções que agreguem valor ao usuário. Minha experiência como Analista de Sistemas e em gestão e marketing digital me dá visão estratégica para criar produtos eficientes e de alta qualidade.  
 
-Ao longo de minha carreira profissional, desenvolvi habilidades em uma variedade de ferramentas e sistemas. Isso inclui o uso do Pacote Office para tarefas administrativas, criação de banners e layouts de publicações utilizando o Canva, edição de vídeos com CapCut, gerenciamento estratégico de redes sociais, automação de fluxo orgânico por meio de robôs, controle de estoque e emissão de notas fiscais, incluindo NFCE, através de sistemas específicos.
+📫 **Contato:**  
+- Email: jose.sistema.ti@gmail.com  
+- WhatsApp: (35) 99139-9396  
+
 
 ## Conecte-se Comigo
 

@@ -1,26 +1,18 @@
 
 # José Carlos Barbosa
 #### Sobre min:
+
 # Olá, eu sou José Carlos 👋
+Sou Desenvolvedor Front-End Júnior em transição a partir de uma base sólida como Analista de Sistemas/Suporte — experiência que valorizo e mantenho no meu currículo porque aprimorou meu diagnóstico técnico, empatia com o usuário e disciplina de documentação/monitoramento. Hoje foco em construir aplicações web e mobile com React, React Native e TypeScript, entregando interfaces escaláveis, performáticas e centradas em UX.
 
-Sou **Desenvolvedor Full Stack** com foco em **React e React Native**, Bacharel em Sistemas de Informação. Aqui no meu GitHub você encontrará **todos os meus projetos, estudos e experimentos**, incluindo aplicações web e mobile, integrações com APIs e protótipos de interface.
+No dia a dia, atuo em criação de novas features e manutenção de produtos externos (web e mobile), trabalhando com Redux, Context API e React Query para gerenciamento de estado, Styled Components para estilização, Jest para testes e consumo de APIs REST. Tenho vivência com integrações em tempo real (ex.: Socket.IO), operação em monorepo e projetos separados, e rotinas multiambiente (dev / homolog / produção com .env). Ferramentas: Git/GitHub, Azure DevOps (CI/CD), Figma, Postman, Android Studio e Genymotion.
 
-💻 **Tecnologias e ferramentas que uso:**
-- **Front-end:** React, React Native, JavaScript, HTML, CSS, Bootstrap  
-- **Back-end:** Node.js, SQL, APIs REST  
-- **Ferramentas:** Git, GitHub, Scrum, Figma, Firebase (Autenticação, Hosting)  
-- **Outros:** Java, Flutter, C++  
+🧩 Projeto em destaque (experiência anterior): no sistema de Autoatendimento da Compilart, prototipei 16 telas no Figma, mapeei fluxos e integrações (API, TEF e impressoras), conectadas ao sistema Gerente, e produzi documentação técnica e funcional completa — alinhando regras de negócio e viabilidade técnica.
 
-🚀 **Projetos recentes:**
-- **Sistema de Autoatendimento (Compilart):** 16 telas prototipadas, integração com APIs, documentação completa e fluxo conectado ao sistema gerente da empresa.  
-- **Sistema web financeiro (TCC):** Controle de fluxo de caixa, vendas e fechamento mensal, desenvolvido com React, Node.js e banco SQL.  
+🎯 Agora, meu objetivo é consolidar minha carreira como Front-End (React/React Native), ampliando impacto em produtos usados por clientes finais, com foco em qualidade de código, performance, acessibilidade e boas práticas.
 
-💡 **Sobre mim:**  
-Sou rápido para aprender novas tecnologias, dedicado e sempre buscando soluções que agreguem valor ao usuário. Minha experiência como Analista de Sistemas e em gestão e marketing digital me dá visão estratégica para criar produtos eficientes e de alta qualidade.  
-
-📫 **Contato:**  
-- Email: jose.sistema.ti@gmail.com  
-- WhatsApp: (35) 99139-9396  
+📂 GitHub: https://github.com/JoseCarlosBarbosa
+📩 jose.sistema.ti@gmail.com | 📱 (35) 99139-9396
 
 
 ## Conecte-se Comigo

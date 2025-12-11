@@ -1,15 +1,46 @@
+# 👋 Olá, eu sou o José Carlos Barbosa
 
-# José Carlos Barbosa
-#### Sobre min:
+Desenvolvedor **Front-End** com foco em **React** e **React Native**, atuando na construção de interfaces modernas, escaláveis e de alta performance. Tenho experiência prática nos setores **bancário** e **hospitalar**, desenvolvendo funcionalidades críticas que exigem estabilidade, segurança e atenção aos detalhes.
 
-# Olá, eu sou José Carlos 👋
-Sou Desenvolvedor Front-End Júnior em transição a partir de uma base sólida como Analista de Sistemas/Suporte — experiência que valorizo e mantenho no meu currículo porque aprimorou meu diagnóstico técnico, empatia com o usuário e disciplina de documentação/monitoramento. Hoje foco em construir aplicações web e mobile com React, React Native e TypeScript, entregando interfaces escaláveis, performáticas e centradas em UX.
+---
 
-No dia a dia, atuo em criação de novas features e manutenção de produtos externos (web e mobile), trabalhando com Redux, Context API e React Query para gerenciamento de estado, Styled Components para estilização, Jest para testes e consumo de APIs REST. Tenho vivência com integrações em tempo real (ex.: Socket.IO), operação em monorepo e projetos separados, e rotinas multiambiente (dev / homolog / produção com .env). Ferramentas: Git/GitHub, Azure DevOps (CI/CD), Figma, Postman, Android Studio e Genymotion.
+## 🚀 Tecnologias que utilizo no dia a dia
+- **React.js • React Native • TypeScript**
+- **Redux • React Query • Context API**
+- **Styled Components • Tamagui • Storybook**
+- **Node.js • JavaScript (ES6+)**
+- **MySQL • REST APIs**
+- **Git avançado (rebase, múltiplas remotas, cherry-pick)**
 
-🧩 Projeto em destaque (experiência anterior): no sistema de Autoatendimento da Compilart, prototipei 16 telas no Figma, mapeei fluxos e integrações (API, TEF e impressoras), conectadas ao sistema Gerente, e produzi documentação técnica e funcional completa — alinhando regras de negócio e viabilidade técnica.
+---
 
-🎯 Agora, meu objetivo é consolidar minha carreira como Front-End (React/React Native), ampliando impacto em produtos usados por clientes finais, com foco em qualidade de código, performance, acessibilidade e boas práticas.
+## 🏗️ Experiência com Arquitetura e DevOps
+Trabalho com arquiteturas modernas e ambientes complexos:
+
+- **Monorepos & Micro Frontends**
+- **Pipelines CI/CD no Azure DevOps**
+- Geração, assinatura e empacotamento de builds
+- Publicação de apps no **Google Play Console** e **App Store Connect**
+
+---
+
+## 🩺 🏦 Projetos relevantes
+- Aplicações bancárias em **React Native**
+- Plataforma hospitalar **Jornada do Paciente (monorepo web/mobile)**
+- Sistema financeiro web (React + Node.js)
+
+---
+
+## 👨‍💻 Sobre mim
+Sou apaixonado por tecnologia, boas práticas, arquitetura de software e experiência do usuário. Busco evolução contínua e gosto de contribuir para projetos que tenham impacto real.
+
+---
+
+## 📫 Como me encontrar
+- **LinkedIn:** https://www.linkedin.com/in/jos%C3%A9-carlos-barbosa  
+- **E-mail:** jose.sistema.ti@gmail.com
+
+Sinta-se à vontade para explorar meus repositórios — sempre estou construindo algo novo!
 
 📂 GitHub: https://github.com/JoseCarlosBarbosa
 📩 jose.sistema.ti@gmail.com | 📱 (35) 99139-9396
@@ -26,6 +57,7 @@ No dia a dia, atuo em criação de novas features e manutenção de produtos ext
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jose.sistema.ti@gmail.com)
 
 ## Skills
+![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
